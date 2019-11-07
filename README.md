@@ -1,6 +1,1 @@
-# Website for online watching of popular serials 
-Website which has a more useful player then on other free sites
-## Installing
-none
-## Built With
-Maven
+It's demo project to learn basic features of Spring Framework, such as Spring MVC, Spring Data, etc.
